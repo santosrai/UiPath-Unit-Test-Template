@@ -37,3 +37,16 @@ _Custom.Activities.VariableComparer.x.x.x.nupkg_ package is custom developed cod
 	* AssertNullException is exception thrown when Assert.IsNull or Assert.IsNotNull method returns false.
 	* CustomAssertException is generic exception that is thrown when random boolean expression that returns false is passed to Assert Unit Test activity
 
+# How to integrate this template to own UiPath Project
+- Create Own Test_Framework folder inside the UiPath Project
+- Download this repository and put inside the Test_Framework folder
+- Open RunAllTests.xaml file with UiPath studio
+- Create own test-case inside the UnitTestCase 
+- Add or Edit the name of test-case inside the _Tests.xlsx file
+- Run RunAllTests.xaml
+
+## Output result
+- You can view result logs on TestLog.txt or you can open _Tests.xlsx to see result
+
+
+
