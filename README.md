@@ -1,5 +1,5 @@
-# UiPath-unit-test-template
-This is for unit test for uipath project
+# UiPath-Unit-Test-Template
+This is unit test template for uipath project.
 
 Thanks to Stefan Krsmanović who have created this template
 [uipath-testing_framework](https://devpost.com/software/uipath-testing_framework)
